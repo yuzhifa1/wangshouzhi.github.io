@@ -67,6 +67,7 @@ gitalk:
   repo: wangshouzhi.github.io    #仓库名称
   owner: wangshouzhi    #github用户名
   admin: wangshouzhi
+  id: 'window.location.pathname'
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
